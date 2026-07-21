@@ -31,7 +31,6 @@
 -   Alignment:
 -   Background:
 -   Background Feature:
--   Current Level:
 -   Age:
 -   Size:
 -   Height:
